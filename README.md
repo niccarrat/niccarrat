@@ -23,31 +23,38 @@ Via Valle Antrona, 1 - 20152 Milan - Born in 23/07/1984
 ## Education   
   
 
-**Bachelor’s Degree in Information Engineering** 
-from September 2003 to January 2011 -  Università del Salento - Lecce. Curriculum Automation. Topics: informatics, electronics, signals theory, computer networks, automation. 
-  
+**Bachelor’s Degree in Information Engineering** from September 2003 to January 2011
+Università del Salento - Lecce. Curriculum Automation. 
+Topics: informatics, electronics, signals theory, computer networks, automation. 
+
+**Gagarin Academy: Live Sound Technician Course** January 2025 - March 2025
+Arci Gagarin - Busto Arsizio. Topics: manage the sounds and mixing of a concert for the PA and stage: positioning of microphones, PA and monitors; cable connection to the mixer and processors; mixer and processor management; configuration of an audio amplification system.
+
   
 
-**Executive Master Certificate in Podcasting & Audio Storytelling** 
-from May 2021 to October 2021 Business School24 S.p.A - Milan 
-  
-  
-
-**Short Master in Sound Design** 
-from October 2019 to June 2020 Istituto Numen - Milan. Topics: Sound Design ambits; how sound designer works with voice, music, effects; DAW Logic Pro; mixing and mastering. 
-  
+**Executive Master Certificate in Podcasting & Audio Storytelling** from May 2021 to October 2021 
+Business School24 S.p.A - Milan 
+Topics: podcast market analysis, business models, podcast genres. Workshops for planning, writing and producing a podcast: from choosing content to sound design.
   
 
-**Video Editing course**
-in May 2017 ABEA Scuola di Formazione - Milan Technology: Adobe Premiere. 
+**Short Master in Sound Design**  from October 2019 to June 2020
+Istituto Numen - Milan. 
+Topics: Sound Design ambits; how sound designer works with voice, music, effects; DAW Logic Pro; mixing and mastering. 
   
   
-
+**Video Editing course** in May 2017
+ABEA Scuola di Formazione - Milan 
+Technology: Adobe Premiere. 
+  
+  
 **SAP Consultant professional training course**
- from February to March 2017                  Umana, U.Form Srl, SAP. Course on SAP’s CMS: Hibrys.  
+from February to March 2017                  
+Umana, U.Form Srl, SAP. Course on SAP’s CMS: Hibrys.  
   
 
-**INNOVANET: Business Planning course** from November 2013 to April 2014           UNIVERSUS CSEI e Politecnico di Bari. Course with tutoring for start up ideas. 
+**INNOVANET: Business Planning course** from November 2013 to April 2014
+UNIVERSUS CSEI e Politecnico di Bari. 
+Course with tutoring for start up ideas. 
   
   
 
