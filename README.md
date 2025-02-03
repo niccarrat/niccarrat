@@ -20,8 +20,7 @@ Via Valle Antrona, 1 - 20152 Milan - Born in 23/07/1984
 </div>  
   
 
-### <div align="center">Education 
-</div>  
+## Education   
   
 
 **Bachelor’s Degree in Information Engineering** 
